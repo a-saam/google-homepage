@@ -1,0 +1,43 @@
+#logo {
+  height: 95px;
+  width: 269px;
+  margin: 200px 500px;
+}
+#form {
+  margin-left: 500px;
+  margin-right: 500px;
+}
+#searchbar {
+  width: 400px;
+}
+#search {
+  margin-top: -200px;
+}
+#buttons {
+  position: absolute;
+  margin-left: 30px;
+}
+#s {
+  margin-left: -65px;
+}
+#header {
+  float: right;
+}
+.links {
+  text-decoration:none;
+  color: black;
+}
+a:hover {
+  font-weight: bold;
+}
+#footer {
+  margin-top: 378px;
+  clear: both;
+  background-color: #9C9C9C;
+}
+#bottomleft {
+  float: left;
+}
+#bottomright {
+  float:right;
+}
